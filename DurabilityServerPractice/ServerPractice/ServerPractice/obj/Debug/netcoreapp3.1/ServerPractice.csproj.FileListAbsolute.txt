@@ -1,0 +1,13 @@
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\bin\Debug\netcoreapp3.1\ServerPractice.exe
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\bin\Debug\netcoreapp3.1\ServerPractice.deps.json
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\bin\Debug\netcoreapp3.1\ServerPractice.runtimeconfig.json
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\bin\Debug\netcoreapp3.1\ServerPractice.runtimeconfig.dev.json
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\bin\Debug\netcoreapp3.1\ServerPractice.dll
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\bin\Debug\netcoreapp3.1\ServerPractice.pdb
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\obj\Debug\netcoreapp3.1\ServerPractice.csprojAssemblyReference.cache
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\obj\Debug\netcoreapp3.1\ServerPractice.AssemblyInfoInputs.cache
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\obj\Debug\netcoreapp3.1\ServerPractice.AssemblyInfo.cs
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\obj\Debug\netcoreapp3.1\ServerPractice.csproj.CoreCompileInputs.cache
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\obj\Debug\netcoreapp3.1\ServerPractice.dll
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\obj\Debug\netcoreapp3.1\ServerPractice.pdb
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ServerPractice\ServerPractice\obj\Debug\netcoreapp3.1\ServerPractice.genruntimeconfig.cache

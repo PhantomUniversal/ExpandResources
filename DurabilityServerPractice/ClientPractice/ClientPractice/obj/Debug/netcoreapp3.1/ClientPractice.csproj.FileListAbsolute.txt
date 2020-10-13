@@ -1,0 +1,13 @@
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.csprojAssemblyReference.cache
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.AssemblyInfoInputs.cache
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.AssemblyInfo.cs
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.csproj.CoreCompileInputs.cache
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.exe
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.deps.json
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.runtimeconfig.json
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.runtimeconfig.dev.json
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.dll
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.pdb
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.dll
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.pdb
+C:\Users\chho1\Desktop\C#\DurabilityServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.genruntimeconfig.cache
