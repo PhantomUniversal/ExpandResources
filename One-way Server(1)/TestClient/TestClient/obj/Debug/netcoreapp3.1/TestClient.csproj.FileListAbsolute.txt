@@ -1,0 +1,12 @@
+C:\C#\One-way Server\TestClient\TestClient\bin\Debug\netcoreapp3.1\TestClient.exe
+C:\C#\One-way Server\TestClient\TestClient\bin\Debug\netcoreapp3.1\TestClient.deps.json
+C:\C#\One-way Server\TestClient\TestClient\bin\Debug\netcoreapp3.1\TestClient.runtimeconfig.json
+C:\C#\One-way Server\TestClient\TestClient\bin\Debug\netcoreapp3.1\TestClient.runtimeconfig.dev.json
+C:\C#\One-way Server\TestClient\TestClient\bin\Debug\netcoreapp3.1\TestClient.dll
+C:\C#\One-way Server\TestClient\TestClient\bin\Debug\netcoreapp3.1\TestClient.pdb
+C:\C#\One-way Server\TestClient\TestClient\obj\Debug\netcoreapp3.1\TestClient.AssemblyInfoInputs.cache
+C:\C#\One-way Server\TestClient\TestClient\obj\Debug\netcoreapp3.1\TestClient.AssemblyInfo.cs
+C:\C#\One-way Server\TestClient\TestClient\obj\Debug\netcoreapp3.1\TestClient.csproj.CoreCompileInputs.cache
+C:\C#\One-way Server\TestClient\TestClient\obj\Debug\netcoreapp3.1\TestClient.dll
+C:\C#\One-way Server\TestClient\TestClient\obj\Debug\netcoreapp3.1\TestClient.pdb
+C:\C#\One-way Server\TestClient\TestClient\obj\Debug\netcoreapp3.1\TestClient.genruntimeconfig.cache
