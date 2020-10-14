@@ -1,0 +1,12 @@
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.AssemblyInfoInputs.cache
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.AssemblyInfo.cs
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.csproj.CoreCompileInputs.cache
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.exe
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.deps.json
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.runtimeconfig.json
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.runtimeconfig.dev.json
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.dll
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\bin\Debug\netcoreapp3.1\ClientPractice.pdb
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.dll
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.pdb
+C:\C#\asynchronismServerPractice\ClientPractice\ClientPractice\obj\Debug\netcoreapp3.1\ClientPractice.genruntimeconfig.cache
