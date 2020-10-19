@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Code\Project result\PsychiatricHospital\PsychiatricHospital\main.cpp(25,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PsychiatricHospital.cpp
+  Generating Code...
+  PsychiatricHospital.vcxproj -> D:\Code\Project result\PsychiatricHospital\x64\Debug\PsychiatricHospital.exe

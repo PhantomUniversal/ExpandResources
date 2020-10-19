@@ -1,0 +1,4 @@
+C:\Users\Elite\Desktop\(결)프로젝트\(결)클로버피하기\Debug\(결)클로버피하기.exe
+C:\Users\Elite\Desktop\(결)프로젝트\(결)클로버피하기\Debug\(결)클로버피하기.pdb
+D:\Code\Project result\Avoid Clover\Debug\(결)클로버피하기.exe
+D:\Code\Project result\Avoid Clover\Debug\(결)클로버피하기.pdb

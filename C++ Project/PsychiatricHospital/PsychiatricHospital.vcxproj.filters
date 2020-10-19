@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="메인메뉴">
+      <UniqueIdentifier>{9b4c4e7b-2b7e-49bb-8691-742e5a3bd287}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="프로그램">
+      <UniqueIdentifier>{66947409-6775-4bdd-b08f-0a2c35756adc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="환자">
+      <UniqueIdentifier>{2c79b1fc-692f-4b82-8938-4eb6ca4b4818}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>메인메뉴</Filter>
+    </ClCompile>
+    <ClCompile Include="PsychiatricHospital.cpp">
+      <Filter>프로그램</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PsychiatricHospital.h">
+      <Filter>프로그램</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
