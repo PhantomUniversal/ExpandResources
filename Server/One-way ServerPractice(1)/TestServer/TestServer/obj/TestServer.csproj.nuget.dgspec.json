@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\One-way Server\\TestServer\\TestServer\\TestServer.csproj": {}
+    "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestServer\\TestServer\\TestServer.csproj": {}
   },
   "projects": {
-    "C:\\C#\\One-way Server\\TestServer\\TestServer\\TestServer.csproj": {
+    "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestServer\\TestServer\\TestServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\One-way Server\\TestServer\\TestServer\\TestServer.csproj",
+        "projectUniqueName": "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestServer\\TestServer\\TestServer.csproj",
         "projectName": "TestServer",
-        "projectPath": "C:\\C#\\One-way Server\\TestServer\\TestServer\\TestServer.csproj",
+        "projectPath": "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestServer\\TestServer\\TestServer.csproj",
         "packagesPath": "C:\\Users\\chho1\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\One-way Server\\TestServer\\TestServer\\obj\\",
+        "outputPath": "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestServer\\TestServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chho1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

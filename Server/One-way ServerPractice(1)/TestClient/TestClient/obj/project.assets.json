@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\One-way Server\\TestClient\\TestClient\\TestClient.csproj",
+      "projectUniqueName": "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestClient\\TestClient\\TestClient.csproj",
       "projectName": "TestClient",
-      "projectPath": "C:\\C#\\One-way Server\\TestClient\\TestClient\\TestClient.csproj",
+      "projectPath": "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestClient\\TestClient\\TestClient.csproj",
       "packagesPath": "C:\\Users\\chho1\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\One-way Server\\TestClient\\TestClient\\obj\\",
+      "outputPath": "C:\\CodeSaveJone\\CCloud\\Server\\One-way ServerPractice(1)\\TestClient\\TestClient\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chho1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
