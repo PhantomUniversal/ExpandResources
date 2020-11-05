@@ -1,0 +1,21 @@
+[오브젝트 OnOff]
+● 오브젝트를 보이게 안보이게 하는 API
+  ▶ ex) void Example(){
+         gameObject.SetActive(false);
+         }
+         ▶ bool 형의 인자값을 명시하여 Object를 제어할 수 있다.
+         ▶ False는 안보이기, True는 보이게 한다.
+
+● 오브젝트가 현재 어떤 보이기 설정으로 되어 있는지 확인하는 API
+  ▶ GameObject.activeSelf()
+  ▶ 게임 오브젝트의 로컬 활성 상태(읽기 전용)
+  ▶ 부모 오브젝트가 활성화 되어 있을 때만 오브젝트가 활성화
+  ▶ activeSelf API는 읽기 전용으로 값의 여부만 확인이 가능하다.
+     ▶ if(gameObject.activeSelf == true)
+     {
+         // 오브젝트가 보이게 설정되어 있는 경우
+     }
+     else if (gameObject.activeSelf == false)
+     {
+         // 오브젝트가 안보이게 설정되어 있는 경우
+     }

@@ -1,0 +1,26 @@
+[UniWebView 사용설명서]
+● UniWebView v4 지원플랫폼
+  ▶ Unity 2018.3 이상
+  ▶ IOS 9.0 이상
+  ▶ Android 5.0(API 레벨 21)이상
+     ▶ UniWebView는 Unity에서 Android와 IOS에서만 사용가능 Switch Platform
+        ▶ Switch Platform 미사용시 오류 발생
+  ▶ UniWebView Import후 Switch Platform 시키고 Unity 재실행하기
+
+● UniWebView prefab
+  ▶ UniWebView.prefab
+  ▶ UniWebViewSafeBrowsing.prefab
+     ▶ 두 개의 prefab은 공전 불가능(한개 사용시 한개는 필수 삭제)
+     ▶ 안전 브라우징 모드에 필요한 기본 구성 요소가 macOS 시스템에 존재하지 않는다.
+        ▶ macOS Unity Editor에서 Safe Browsing Mode는 Safari 또는 Chrome과 같은 외부 브라우저를 여는 것으로 
+           대체되며 모든 수명주기 이벤트가 작동하지 않는다.
+
+● UniWebView 런타임 인스턴스화
+  ▶ 실행하기 전에 장면에 프리 팹을 추가하는 대신 런타임에 인스턴스화 사용가능
+     ▶ 메모리 관리 기능을 사용할려면 런타임에 인스턴스화를 하는것 이 좋음
+
+● UniWebView 메모리 관리
+  ▶ UniWebView가 완료 버튼 또는 뒤로 버튼으로 닫히면 가능한 한 빨리 리소스를 해제하기 위해 기본적으로 구성 요소 자체를 파괴한다.
+     ∴ 동일한 UniWebView를 재사용 할 수 없다. 
+        ▶ 다른 페이지를 표시하려면 새 UniWebView를 만들어야한다.
+           ++ 메모리 관리 섹션 정리해서 올리기
