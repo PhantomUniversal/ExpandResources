@@ -6,19 +6,15 @@ namespace CSharpPractice
     {
         static void Main(string[] args)
         {
-            for(int i = 2; i <= 9; i++)
-            {
-                Console.Write($"{i,4}단  ");
-            }
-            Console.WriteLine();
+            int first = 0;
+            int second = 1;
 
-            for (int i = 1; i <= 9; i++)
+            while(second <= 20)
             {
-                for(int j = 2; j <= 9; j++)
-                {
-                    Console.Write($"{j}*{i}={j * i,2}  ");
-                }
-                Console.WriteLine();
+                Console.WriteLine(second);
+                int temp = first + second;
+                first = second;
+                second = temp;
             }
         }
     }
