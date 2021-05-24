@@ -6,20 +6,33 @@ namespace CSharpPractice
     {
         static void Main(string[] args)
         {
-            for(int i = 2; i <= 9; i++)
-            {
-                Console.Write($"{i,4}단  ");
-            }
-            Console.WriteLine();
+            Console.WriteLine("시작");
+        Start:
+            Console.WriteLine("0, 1, 2 중 하나 입력 : _\b");
+            int chapter = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 1; i <= 9; i++)
+            if(chapter == 1)
             {
-                for(int j = 2; j <= 9; j++)
-                {
-                    Console.Write($"{j}*{i}={j * i,2}  ");
-                }
-                Console.WriteLine();
+                goto Chapter1;
             }
+            else if(chapter == 2)
+            {
+                goto Chapter2;
+            }
+            else
+            {
+                goto End;
+            }
+
+        Chapter1:
+            Console.WriteLine("1장입니다.");
+        Chapter2:
+            Console.WriteLine("2장입니다.");
+
+            goto Start;
+
+        End:
+            Console.WriteLine("종료");
         }
     }
 }
