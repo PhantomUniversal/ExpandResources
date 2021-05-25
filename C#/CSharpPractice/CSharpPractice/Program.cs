@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace CSharpPractice
 {
@@ -6,33 +7,11 @@ namespace CSharpPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("시작");
-        Start:
-            Console.WriteLine("0, 1, 2 중 하나 입력 : _\b");
-            int chapter = Convert.ToInt32(Console.ReadLine());
+            int[,,] array = new int[3, 3, 3];
 
-            if(chapter == 1)
-            {
-                goto Chapter1;
-            }
-            else if(chapter == 2)
-            {
-                goto Chapter2;
-            }
-            else
-            {
-                goto End;
-            }
-
-        Chapter1:
-            Console.WriteLine("1장입니다.");
-        Chapter2:
-            Console.WriteLine("2장입니다.");
-
-            goto Start;
-
-        End:
-            Console.WriteLine("종료");
+            Console.WriteLine(array.GetLength(0));
+            Console.WriteLine(array.Length);
+            Console.WriteLine(array.Rank);
         }
     }
 }
