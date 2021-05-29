@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CodeSaveJone\\CCloud\\C#\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj",
+      "projectUniqueName": "C:\\DevelopmentData\\GitData\\Jamce\\CCloud\\C#\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj",
       "projectName": "CSharpPractice",
-      "projectPath": "C:\\CodeSaveJone\\CCloud\\C#\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj",
+      "projectPath": "C:\\DevelopmentData\\GitData\\Jamce\\CCloud\\C#\\CSharpPractice\\CSharpPractice\\CSharpPractice.csproj",
       "packagesPath": "C:\\Users\\chho1\\.nuget\\packages\\",
-      "outputPath": "C:\\CodeSaveJone\\CCloud\\C#\\CSharpPractice\\CSharpPractice\\obj\\",
+      "outputPath": "C:\\DevelopmentData\\GitData\\Jamce\\CCloud\\C#\\CSharpPractice\\CSharpPractice\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chho1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
