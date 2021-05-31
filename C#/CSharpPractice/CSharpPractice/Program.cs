@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 
 namespace CSharpPractice
 {
@@ -7,11 +6,16 @@ namespace CSharpPractice
     {
         static void Main(string[] args)
         {
-            int[,,] array = new int[3, 3, 3];
+            int first = 0;
+            int second = 1;
 
-            Console.WriteLine(array.GetLength(0));
-            Console.WriteLine(array.Length);
-            Console.WriteLine(array.Rank);
+            while(second <= 20)
+            {
+                Console.WriteLine(second);
+                int temp = first + second;
+                first = second;
+                second = temp;
+            }
         }
     }
 }
